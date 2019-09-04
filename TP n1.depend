@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1567548212 source:c:\users\alumno\desktop\tp n1 alterno-20190903t220216z-001\tp n1 alterno\tp n1\funciones.c
+
+1567559662 source:c:\users\alumno\desktop\tp n1 alterno-20190903t220216z-001\tp n1 alterno\tp n1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567528728 c:\users\alumno\desktop\tp n1 alterno-20190903t220216z-001\tp n1 alterno\tp n1\funciones.h
+
+1567621381 source:c:\users\fderbilli\desktop\tp n1 alterno-20190903t220216z-001\tp n1 alterno\tp n1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567621088 c:\users\fderbilli\desktop\tp n1 alterno-20190903t220216z-001\tp n1 alterno\tp n1\funciones.h
+
+1567621088 source:c:\users\fderbilli\desktop\tp n1 alterno-20190903t220216z-001\tp n1 alterno\tp n1\funciones.c
+

@@ -56,7 +56,7 @@ int main()
                   printf("El resultado de A/B es: %.2f\n",rDivision);
                 }
                 printf("El resultado de %.2f * %.2f es: %.2f\n", x,y,rMultiplicacion);
-                printf("El factorial de %.0f es: %.0f y El factorial de %.0f es: %.0f\n",x,rFactorial1,y,rFactorial2);
+                printf("El factorial de %.0f es: %.0f y El factorial de %.0f es: %.0f\n\n",x,rFactorial1,y,rFactorial2);
                 break;
                 case 5:
                 printf("Operacion terminada\n");

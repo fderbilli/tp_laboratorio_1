@@ -43,6 +43,7 @@ int main()
                 }
                 rFactorial1=factorial(x);
                 rFactorial2=factorial(y);
+                printf("Datos calculados en forma correcta\n\n");
                 break;
                 case 4:
                 printf("El resultado de %.2f + %.2f es: %.2f\n",x,y,rSuma);
@@ -62,6 +63,9 @@ int main()
                 printf("Operacion terminada\n");
                 continuar='n';
                 break;
+                default:
+                    printf("Opcion invalida. Seleccione opcion correcta\n\n");
+                    break;
             }
         }while(continuar=='s');
         return 0;
